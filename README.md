@@ -13,5 +13,10 @@
 
 ## Code 
 
+| Sequence     | content | File Name |
+| --------- | --- | ----------- |
+| 01    | text preprocessing| text_preprocessing.ipynb  |
+
+
 
 ## Generative AI Project 
