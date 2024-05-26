@@ -20,3 +20,6 @@
 
 
 ## Generative AI Project 
+Text Summarizer using pegasus 
+ Code : Text Summarization.ipynb
+ 
