@@ -21,5 +21,5 @@
 
 ## Generative AI Project 
 Text Summarizer using pegasus 
- Code : Text Summarization.ipynb
- 
+ Code : [here](https://github.com/ParthDave111/Generative-AI-/blob/main/Text_Summarization_medium.ipynb)
+
